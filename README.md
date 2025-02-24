@@ -1,2 +1,2 @@
 # Bostan House Prediction 
-## lnear regression is use 
+## Linear regression is used 
